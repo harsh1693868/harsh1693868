@@ -10,6 +10,26 @@ Actively seeking full-time Data Analyst, Business Analyst, and Analytics Consult
 ☁️ Microsoft Azure Data Engineer Associate certified
 🎓 B.Tech Computer Science, SRM University (2024) · CGPA 7.99
 
+🛠️ Tech Stack
+
+Languages
+Python
+SQL
+
+
+Data & Analytics
+Pandas
+Numpy
+Power BI
+Excel
+
+Machine Learning
+pytorch
+Tensor flow
+Scikit-Learn
+
+Cloud
+Azure
 
 
 🌱 Currently: open to full-time analytics roles · sharpening SQL & Power BI · exploring ML deployment
