@@ -1,0 +1,34 @@
+Retail Store Business Analytics Dashboard
+
+Project Overview
+Built an end-to-end retail analytics project from a raw notebook-based dataset and transformed it into a Power BI-ready reporting package. Cleaned data issues, corrected revenue logic, designed KPI measures, and structured a dashboard specification for business reporting.
+
+Problem Solved
+The source notebook contained inconsistencies including incorrect revenue calculation and file naming issues. The project standardized the data model and turned a basic practice notebook into a portfolio-ready analytics case study.
+
+Tools Used
+Python, Pandas, Matplotlib, Excel, Power BI, DAX
+
+Key Business Results
+Total revenue analyzed: 487000
+Total quantity sold: 30
+Average unit price: 24000
+Orders analyzed: 6
+Top category: Electronics with revenue of 335000
+Top product: Phone with revenue of 125000
+
+Dashboard Features
+Executive KPI cards for revenue, quantity, average price, and order count
+Revenue by product analysis
+Revenue by category breakdown
+Detailed product performance table
+Slicers for product and category exploration
+
+Project Deliverables
+Power BI dataset workbook
+Business report workbook
+Dashboard specification workbook
+Power BI theme file
+
+Suggested Portfolio Description
+This project demonstrates the full analytics workflow from data cleaning to dashboard planning. I used Python and Pandas to correct data logic, generate summary tables, and prepare a clean model for Power BI. I then designed a business dashboard structure with KPI cards, revenue analysis by product and category, and reusable DAX measures for executive reporting.
