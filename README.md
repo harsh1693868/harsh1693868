@@ -1,5 +1,5 @@
 # Harsh -analytics - projects
-Data and business analytics professional with hands-on experience turning raw data into decisions — from SQL-driven reporting to Power BI dashboards to Python-based ML projects. I completed a Business Analytics apprenticeship at Ducat India and previously worked as a Software Test Analyst at TeleQuestAI, now focused full-time on data/business analyst and analytics consulting roles.
+Data and business analytics professional with hands-on experience turning raw data into decisions — from SQL-driven reporting to Power BI dashboards to Python-based ML projects. I completed a Business Analytics apprenticeship at Ducat India and previously worked as a Software Test Engineer at TeleQuestAI, now focused full-time on data/business analyst and analytics consulting roles.
 
 Actively seeking full-time Data Analyst, Business Analyst, and Analytics Consulting roles in Delhi NCR / Gurugram, with interest in international opportunities (Dublin, Ireland).
 
