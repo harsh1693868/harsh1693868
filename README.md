@@ -1,7 +1,7 @@
 
 # Harsh Verdhan | Data & Business Analytics
 
-Data and business analytics professional with hands-on experience turning raw data into decisions, from SQL-driven reporting to Power BI dashboards to Python-based ML projects. I completed a Business Analytics apprenticeship at Ducat India and previously worked as a Software Test Engineer at TeleQuestAI. I'm now pursuing an MSc in Data Science and AI at Dublin Business School, Ireland, and focused on data/business analyst and analytics consulting roles.
+Data and business analytics professional with hands-on experience turning raw data into decisions, from SQL-driven reporting to Power BI dashboards to Python-based ML projects. I completed a Business Analytics apprenticeship at Ducat India and previously worked as a Software Test Engineer at TeleQuestAI And worked in unacademy as Business Analyst which includes my role in marketing analysis also. I'm now pursuing an MSc in Data Science and AI at Dublin Business School, Ireland, and focused on data/business analyst and analytics consulting roles.
 
 Actively seeking full-time Data Analyst, Business Analyst, and Analytics Consulting roles in Delhi NCR / Gurugram, with interest in opportunities in Dublin, Ireland.
 
