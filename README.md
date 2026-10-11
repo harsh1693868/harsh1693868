@@ -1,15 +1,16 @@
+
 # Harsh Verdhan | Data & Business Analytics
-Data and business analytics professional with hands-on experience turning raw data into decisions — from SQL-driven reporting to Power BI dashboards to Python-based ML projects. I completed a Business Analytics apprenticeship at Ducat India and previously worked as a Software Test Engineer at TeleQuestAI, now focused full-time on data/business analyst and analytics consulting roles.
 
-Actively seeking full-time Data Analyst, Business Analyst, and Analytics Consulting roles in Delhi NCR / Gurugram, with interest in international opportunities (Dublin, Ireland).
+Data and business analytics professional with hands-on experience turning raw data into decisions, from SQL-driven reporting to Power BI dashboards to Python-based ML projects. I completed a Business Analytics apprenticeship at Ducat India and previously worked as a Software Test Engineer at TeleQuestAI. I'm now pursuing an MSc in Data Science and AI at Dublin Business School, Ireland, and focused on data/business analyst and analytics consulting roles.
 
+Actively seeking full-time Data Analyst, Business Analyst, and Analytics Consulting roles in Delhi NCR / Gurugram, with interest in opportunities in Dublin, Ireland.
 
 📊 Built end-to-end analytics dashboards in Power BI (HR Analytics, business reporting)
-🐍 Developed ML projects in PyTorch and TensorFlow, including a CIFAR-10 image classifier comparison and a retail product classifier using ResNet18 with Grad-CAM explainability, deployed via Streamlit
-🗃️ Solved structured SQL problem sets and built data pipelines using Pandas/NumPy
+🤖 Developed ML projects in PyTorch and TensorFlow, including a CIFAR-10 image classifier comparison and a retail product classifier using ResNet18 with Grad-CAM explainability, deployed via Streamlit
+🗄️ Solved structured SQL problem sets and built data pipelines using Pandas/NumPy
 ☁️ Microsoft Azure Data Engineer Associate certified
+🎓 MSc in Data Science and AI, Dublin Business School, Ireland (2026 – present)
 🎓 B.Tech Computer Science, SRM University (2024) · CGPA 7.99
-
 🛠️ Tech Stack
 
 Languages
